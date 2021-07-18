@@ -18,10 +18,10 @@ npm start
 ## Construído com:
 
 * [NodeJS](https://nodejs.org/en/) - is a JavaScript runtime built on Chrome's V8 JavaScript engine.
-* [ExpressJS](https://expressjs.com/pt-br/) - é um framework para Node.js que fornece recursos mínimos para construção de servidores web. 
-* [MongoDB](https://www.mongodb.com/) - é um software de banco de dados orientado a documentos livre, de código aberto e multiplataforma, escrito na linguagem C++.
-* [Postman](https://www.postman.com/) - is a collaboration platform for API development. Postman's features simplify each step of building an API and streamline collaboration so you can create better APIs—faster.
+* [React](https://pt-br.reactjs.org/) - é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web
 
+### Getting Started with Create React App
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Author:
 
