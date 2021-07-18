@@ -4,7 +4,7 @@ Aplicação que lista os repositórios git de um determinado usuario.
 
 ## Início
 
-Módulo de estudos: React + Express + MongoDB + Atlas + Postman
+Módulo de estudos: React(Componentes - Hook - Props) + React Router Dom + Axios - Integração com API externa (git) + Styled Components
 
 ### Pré-requisitos:
 
