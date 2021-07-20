@@ -17,6 +17,13 @@ export const Container = styled.div`
   justify-content: center;
 `;
 
+export const Title = styled.h1`
+  text-align: center;
+  font-size: 2rem;
+  font-family: sans-serif;
+  color: #333;
+`;
+
 export const Input = styled.input`
   border: 1px solid #ddd;
   border-radius: .25rem 0 0 .25rem;

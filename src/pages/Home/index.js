@@ -30,6 +30,7 @@ export default function Home(props) {
 
   return (
     <S.HomeContainer>
+      <S.Title>Buscando Repositorios GitHub via API</S.Title>
       <S.Container>
         <S.Input placeholder="Usuário" className="userInput" value = {usuario} onChange = {e => setUsuario(e.target.value)} />
         <S.Button type="button" onClick={handlePesquisa}>Pesquisar</S.Button>
